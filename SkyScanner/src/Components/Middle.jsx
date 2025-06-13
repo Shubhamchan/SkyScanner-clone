@@ -186,15 +186,15 @@ function Middle () {
         <section id="middle-part">
         <div className="inner-wrapper">
           <button>
-            <img src="./assets/hotels_white_2.svg" alt="Hotels" />
+            <img src="./src/assets/hotels_white_2.svg" alt="Hotels" />
             Hotels
           </button>
           <button>
-            <img src="./assets/carhire_white_2.svg" alt="Car Hire" />
+            <img src="./src/assets/carhire_white_2.svg" alt="Car Hire" />
             Car Hire
           </button>
           <button>
-            <img src="./assets/Explore-40px.svg" alt="Explore Everywhere" />
+            <img src="./src/assets/Explore-40px.svg" alt="Explore Everywhere" />
             Explore Everywhere
           </button>
         </div>

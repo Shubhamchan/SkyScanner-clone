@@ -10,6 +10,10 @@ import MY from '/src/assets/my.png';
 import ID from '/src/assets/id.png';
 import PH from '/src/assets/ph.png';
 import US from '/src/assets/us.png';  
+import hotel from '/src/assets/hotels_white_2.svg';
+import car from '/src/assets/carhire_white_2.svg';
+import explore from '/src/assets/Explore-40px.svg';
+
 
 
  const faqsLeft = [
@@ -186,15 +190,15 @@ function Middle () {
         <section id="middle-part">
         <div className="inner-wrapper">
           <button>
-            <img src="./src/assets/hotels_white_2.svg" alt="Hotels" />
+            <img src={hotel} alt="Hotels" />
             Hotels
           </button>
           <button>
-            <img src="./src/assets/carhire_white_2.svg" alt="Car Hire" />
+            <img src={car} alt="Car Hire" />
             Car Hire
           </button>
           <button>
-            <img src="./src/assets/Explore-40px.svg" alt="Explore Everywhere" />
+            <img src={explore} alt="Explore Everywhere" />
             Explore Everywhere
           </button>
         </div>

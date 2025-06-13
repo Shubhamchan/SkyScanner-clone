@@ -350,7 +350,7 @@ body,
 }
 .image-part {
   position: relative;
-  background-image: url("./src/assets/Image1.webp");
+  background-image: url("./assets/Image1.webp");
   background-size: cover;
   background-position: center;
   height: 450px;

@@ -2,6 +2,7 @@ import React from "react";
 import "./Hotels.css";
 import ButtonMiddle from "./ButtonMiddle";
 import { useLocation,useNavigate} from "react-router-dom";
+import Taj from '/src/assets/Taj.jpg';
 
 function Feature({ Icon, title, desc }) {
   return (
@@ -46,7 +47,7 @@ const deals = [
     id: 1,
     city: 'Jorhat',
     country: 'India',
-    imageUrl: '/src/assets/Taj.jpg',
+    imageUrl: Taj,
     routes: [
       { date: 'Sat, Jul 5', route: 'IXT → JRH', airline: 'Alliance Air' },
       { date: 'Sat, Jul 12', route: 'JRH → IXT', airline: 'Alliance Air' },

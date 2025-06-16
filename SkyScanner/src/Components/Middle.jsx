@@ -10,9 +10,9 @@ import MY from '/src/assets/my.png';
 import ID from '/src/assets/id.png';
 import PH from '/src/assets/ph.png';
 import US from '/src/assets/us.png';  
-import hotel from '/assets/hotels_white_2.svg';
-import car from '/assets/carhire_white_2.svg';
-import explore from '/assets/Explore-40px.svg';
+import hotel from '/src/assets/hotels_white_2.svg';
+import car from '/src/assets/carhire_white_2.svg';
+import explore from '/src/assets/Explore-40px.svg';
 
 
 

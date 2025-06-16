@@ -46,7 +46,7 @@ const deals = [
     id: 1,
     city: 'Jorhat',
     country: 'India',
-    imageUrl: './src/assets/Taj.jpg',
+    imageUrl: '/assets/Taj.jpg',
     routes: [
       { date: 'Sat, Jul 5', route: 'IXT → JRH', airline: 'Alliance Air' },
       { date: 'Sat, Jul 12', route: 'JRH → IXT', airline: 'Alliance Air' },

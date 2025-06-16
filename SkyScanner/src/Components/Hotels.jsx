@@ -58,7 +58,7 @@ const deals = [
     id: 2,
     city: 'Dhaka',
     country: 'Bangladesh',
-    imageUrl: 'https://images.unsplash.com/photo-1590490360188-e3b59b4ff3ad',
+    imageUrl: Taj,
     routes: [
       { date: 'Fri, Jul 11', route: 'CCU → DAC', airline: 'US-Bangla Airlines' },
       { date: 'Fri, Jul 18', route: 'DAC → CCU', airline: 'US-Bangla Airlines' },
@@ -69,7 +69,7 @@ const deals = [
     id: 3,
     city: 'Muscat',
     country: 'Oman',
-    imageUrl: 'https://images.unsplash.com/photo-1621323152561-b3e6c0d29f54',
+    imageUrl: Taj,
     routes: [
       { date: 'Tue, Jun 24', route: 'BOM → MCT', airline: 'SalamAir' },
       { date: 'Wed, Jul 2', route: 'MCT → BOM', airline: 'SalamAir' },
@@ -80,7 +80,7 @@ const deals = [
     id: 4,
     city: 'Muscat',
     country: 'Oman',
-    imageUrl: 'https://images.unsplash.com/photo-1621323152561-b3e6c0d29f54',
+    imageUrl: Taj,
     routes: [
       { date: 'Tue, Jun 24', route: 'BOM → MCT', airline: 'SalamAir' },
       { date: 'Wed, Jul 2', route: 'MCT → BOM', airline: 'SalamAir' },
@@ -91,7 +91,7 @@ const deals = [
     id: 5,
     city: 'Muscat',
     country: 'Oman',
-    imageUrl: 'https://images.unsplash.com/photo-1621323152561-b3e6c0d29f54',
+    imageUrl: Taj,
     routes: [
       { date: 'Tue, Jun 24', route: 'BOM → MCT', airline: 'SalamAir' },
       { date: 'Wed, Jul 2', route: 'MCT → BOM', airline: 'SalamAir' },
@@ -102,7 +102,7 @@ const deals = [
     id: 6,
     city: 'Muscat',
     country: 'Oman',
-    imageUrl: 'https://images.unsplash.com/photo-1621323152561-b3e6c0d29f54',
+    imageUrl: Taj,
     routes: [
       { date: 'Tue, Jun 24', route: 'BOM → MCT', airline: 'SalamAir' },
       { date: 'Wed, Jul 2', route: 'MCT → BOM', airline: 'SalamAir' },
